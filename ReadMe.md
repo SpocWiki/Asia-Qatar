@@ -128,10 +128,4 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Qatar|Qatar]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar.internal|Qatar.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar.protect|Qatar.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Qatar.private|Qatar.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar.personal|Qatar.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar.secret|Qatar.secret]] 
+

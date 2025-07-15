@@ -40,11 +40,18 @@ markerFolder: ./Ad_Dawhah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah|Ad_Dawhah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.public|Ad_Dawhah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.internal|Ad_Dawhah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.protect|Ad_Dawhah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.private|Ad_Dawhah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.personal|Ad_Dawhah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Ad_Dawhah.secret|Ad_Dawhah.secret]] 
+
+### #is_/same_as :: [Ad_Dawhah](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah.md) 
+
+### #is_/same_as :: [Ad_Dawhah.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah.public.md) 
+
+### #is_/same_as :: [Ad_Dawhah.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah.internal.md) 
+
+### #is_/same_as :: [Ad_Dawhah.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah.protect.md) 
+
+### #is_/same_as :: [Ad_Dawhah.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah.private.md) 
+
+### #is_/same_as :: [Ad_Dawhah.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah.personal.md) 
+
+### #is_/same_as :: [Ad_Dawhah.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah.secret.md)
 

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Qatar/City/Doha|Doha]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Qatar/City/Doha.public|Doha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/City/Doha.internal|Doha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/City/Doha.protect|Doha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Qatar/City/Doha.private|Doha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/City/Doha.personal|Doha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/City/Doha.secret|Doha.secret]] 
+
+### #is_/same_as :: [Doha](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.md) 
+
+### #is_/same_as :: [Doha.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.public.md) 
+
+### #is_/same_as :: [Doha.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.internal.md) 
+
+### #is_/same_as :: [Doha.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.protect.md) 
+
+### #is_/same_as :: [Doha.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.private.md) 
+
+### #is_/same_as :: [Doha.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.personal.md) 
+
+### #is_/same_as :: [Doha.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.secret.md)
+

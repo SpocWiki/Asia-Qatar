@@ -40,11 +40,18 @@ markerFolder: ./Madinat_ach_Shamal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal|Madinat_ach_Shamal]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.public|Madinat_ach_Shamal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.internal|Madinat_ach_Shamal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.protect|Madinat_ach_Shamal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.private|Madinat_ach_Shamal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.personal|Madinat_ach_Shamal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Madinat_ach_Shamal.secret|Madinat_ach_Shamal.secret]] 
+
+### #is_/same_as :: [Madinat_ash_Shamal](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Madinat_ash_Shamal.md) 
+
+### #is_/same_as :: [Madinat_ash_Shamal.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Madinat_ash_Shamal.public.md) 
+
+### #is_/same_as :: [Madinat_ash_Shamal.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Madinat_ash_Shamal.internal.md) 
+
+### #is_/same_as :: [Madinat_ash_Shamal.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Madinat_ash_Shamal.protect.md) 
+
+### #is_/same_as :: [Madinat_ash_Shamal.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Madinat_ash_Shamal.private.md) 
+
+### #is_/same_as :: [Madinat_ash_Shamal.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Madinat_ash_Shamal.personal.md) 
+
+### #is_/same_as :: [Madinat_ash_Shamal.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Madinat_ash_Shamal.secret.md)
 
