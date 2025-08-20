@@ -1,35 +1,36 @@
 ---
 location:
-- 25.28
-- 51.53
+  - 25.28
+  - 51.53
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27004
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Qatar
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Qatar
-- قطر
-- 卡塔尔
-- Катар
-- the State of Qatar
-- el Estado de Qatar
+  - Qatar
+  - قطر
+  - 卡塔尔
+  - Катар
+  - the State of Qatar
+  - el Estado de Qatar
 Languages:
-- ar-QA
-- es
+  - ar-QA
+  - es
 ---
 
 
