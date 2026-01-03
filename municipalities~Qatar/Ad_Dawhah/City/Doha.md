@@ -53,19 +53,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doha)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doha](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha|Doha]] 
 
-### #is_/same_as :: [Doha.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.public|Doha.public]] 
 
-### #is_/same_as :: [Doha.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.internal|Doha.internal]] 
 
-### #is_/same_as :: [Doha.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.protect|Doha.protect]] 
 
-### #is_/same_as :: [Doha.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.private|Doha.private]] 
 
-### #is_/same_as :: [Doha.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.personal|Doha.personal]] 
 
-### #is_/same_as :: [Doha.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ad_Dawhah/City/Doha.secret|Doha.secret]] 
 

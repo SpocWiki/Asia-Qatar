@@ -40,17 +40,17 @@ markerFolder: ./Al_Khawr/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Khor](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor|Al_Khor]] 
 
-### #is_/same_as :: [Al_Khor.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.public|Al_Khor.public]] 
 
-### #is_/same_as :: [Al_Khor.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.internal|Al_Khor.internal]] 
 
-### #is_/same_as :: [Al_Khor.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.protect|Al_Khor.protect]] 
 
-### #is_/same_as :: [Al_Khor.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.private|Al_Khor.private]] 
 
-### #is_/same_as :: [Al_Khor.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.personal|Al_Khor.personal]] 
 
-### #is_/same_as :: [Al_Khor.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Khor.secret|Al_Khor.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Al_Wakrah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Wakrah](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah|Al_Wakrah]] 
 
-### #is_/same_as :: [Al_Wakrah.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.public|Al_Wakrah.public]] 
 
-### #is_/same_as :: [Al_Wakrah.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.internal|Al_Wakrah.internal]] 
 
-### #is_/same_as :: [Al_Wakrah.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.protect|Al_Wakrah.protect]] 
 
-### #is_/same_as :: [Al_Wakrah.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.private|Al_Wakrah.private]] 
 
-### #is_/same_as :: [Al_Wakrah.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.personal|Al_Wakrah.personal]] 
 
-### #is_/same_as :: [Al_Wakrah.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Wakrah.secret|Al_Wakrah.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Ar_Rayyān/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ar_Rayyān](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān|Ar_Rayyān]] 
 
-### #is_/same_as :: [Ar_Rayyān.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.public|Ar_Rayyān.public]] 
 
-### #is_/same_as :: [Ar_Rayyān.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.internal|Ar_Rayyān.internal]] 
 
-### #is_/same_as :: [Ar_Rayyān.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.protect|Ar_Rayyān.protect]] 
 
-### #is_/same_as :: [Ar_Rayyān.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.private|Ar_Rayyān.private]] 
 
-### #is_/same_as :: [Ar_Rayyān.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.personal|Ar_Rayyān.personal]] 
 
-### #is_/same_as :: [Ar_Rayyān.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Ar_Rayyān.secret|Ar_Rayyān.secret]] 
 

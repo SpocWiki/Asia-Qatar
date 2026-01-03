@@ -40,17 +40,17 @@ markerFolder: ./Umm_Salal/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Umm_Salal](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal|Umm_Salal]] 
 
-### #is_/same_as :: [Umm_Salal.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.public|Umm_Salal.public]] 
 
-### #is_/same_as :: [Umm_Salal.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.internal|Umm_Salal.internal]] 
 
-### #is_/same_as :: [Umm_Salal.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.protect|Umm_Salal.protect]] 
 
-### #is_/same_as :: [Umm_Salal.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.private|Umm_Salal.private]] 
 
-### #is_/same_as :: [Umm_Salal.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.personal|Umm_Salal.personal]] 
 
-### #is_/same_as :: [Umm_Salal.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Umm_Salal.secret|Umm_Salal.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Al_Daayen/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Daayen](/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen|Al_Daayen]] 
 
-### #is_/same_as :: [Al_Daayen.public](/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.public|Al_Daayen.public]] 
 
-### #is_/same_as :: [Al_Daayen.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.internal|Al_Daayen.internal]] 
 
-### #is_/same_as :: [Al_Daayen.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.protect|Al_Daayen.protect]] 
 
-### #is_/same_as :: [Al_Daayen.private](/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.private|Al_Daayen.private]] 
 
-### #is_/same_as :: [Al_Daayen.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.personal|Al_Daayen.personal]] 
 
-### #is_/same_as :: [Al_Daayen.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Qatar/municipalities~Qatar/Al_Daayen.secret|Al_Daayen.secret]] 
 
