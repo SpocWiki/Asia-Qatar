@@ -116,7 +116,7 @@ markerFolder: ./
 [Area-Land::11000] 
 Continent :: [[Asia]]  
 [VehicleCode::Q] 
-Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]  
+Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha|Doha]]  
 ![[Qatar/Emblem_of_Qatar.svg|350]]  
 
 ![[Anthem-Qatar.mp3]] 

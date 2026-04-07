@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::25.28] 
 [name::Doha] 
 State ::  
-Country :: [[../../../../Qatar]]  
+Country :: [[../../../../Qatar|Qatar]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
