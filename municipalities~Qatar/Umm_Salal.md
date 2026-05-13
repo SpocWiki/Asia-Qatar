@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Umm_Salal/
 markerFolder: ./Umm_Salal/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

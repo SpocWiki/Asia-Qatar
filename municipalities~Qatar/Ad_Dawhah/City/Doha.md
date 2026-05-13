@@ -51,7 +51,7 @@ maxZoom: 18
 >
 > The city also hosted the 140th Inter-Parliamentary Union Assembly in April 2019 and hosted the 18th yearly session of the United Nations Framework Convention on Climate Change in 2012. Doha has been named as the second safest city in the world in the Numbeo Crime Index by City 2021. The index tracks safety in 431 cities.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Doha)
+> [Wikipedia](https://en.wikipedia.org/wiki/Doha) 
 
 
 ## Confidential Links & Embeds: 

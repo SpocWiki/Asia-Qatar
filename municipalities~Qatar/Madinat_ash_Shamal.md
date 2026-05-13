@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Madinat_ach_Shamal/
 markerFolder: ./Madinat_ach_Shamal/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
